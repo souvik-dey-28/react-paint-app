@@ -4,6 +4,8 @@ This is a simple Paint App built using modern web technologies. Below is the det
 
 ## Project Structure
 
+Below is the detailed structure of the project:
+
 ```bash
 paint-app/
 ├── eslint.config.js       # ESLint configuration file
