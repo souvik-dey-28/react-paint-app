@@ -68,10 +68,6 @@ Below is an example of the application output:
 
 ![Application Output](output.jpg)
 
-## Responsive Design
-
-This project is designed to be responsive and works seamlessly across various screen sizes. The layout and components adjust dynamically to provide an optimal user experience on both desktop and mobile devices.
-
 ## Additional Notes
 
 - Ensure you have Node.js and npm installed on your system.
