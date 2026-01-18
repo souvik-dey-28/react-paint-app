@@ -39,7 +39,7 @@ Follow these steps to run the application locally:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/souvik-dey-28/react-paint-app.git
    ```
 
 2. **Navigate to the Project Directory**
