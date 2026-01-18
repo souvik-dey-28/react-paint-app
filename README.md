@@ -8,18 +8,23 @@ Below is the detailed structure of the project:
 
 ```bash
 paint-app/
+├── .gitignore             # Git ignore file
 ├── eslint.config.js       # ESLint configuration file
 ├── index.html             # Main HTML file
+├── package-lock.json      # Lock file for npm dependencies
 ├── package.json           # Project metadata and dependencies
 ├── README.md              # Project documentation
 ├── vite.config.js         # Vite configuration file
+├── node_modules/          # Installed npm packages
 ├── public/                # Static assets
+│   └── vite.svg           # Vite logo
 ├── src/                   # Source code directory
 │   ├── App.css            # Styles for the App component
 │   ├── App.jsx            # Main App component
 │   ├── index.css          # Global styles
 │   ├── main.jsx           # Entry point for the application
 │   ├── assets/            # Folder for images, icons, etc.
+│   │   └── react.svg      # React logo
 │   └── components/        # React components
 │       └── Menu.jsx       # Menu component
 ```
